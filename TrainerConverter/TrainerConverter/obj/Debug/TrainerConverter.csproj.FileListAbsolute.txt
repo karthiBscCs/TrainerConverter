@@ -1,0 +1,8 @@
+C:\Users\Karthi\Documents\Visual Studio 2008\Projects\TrainerConverter\TrainerConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karthi\Documents\Visual Studio 2008\Projects\TrainerConverter\TrainerConverter\obj\Debug\TrainerConverter.Form1.resources
+C:\Users\Karthi\Documents\Visual Studio 2008\Projects\TrainerConverter\TrainerConverter\obj\Debug\TrainerConverter.Properties.Resources.resources
+C:\Users\Karthi\Documents\Visual Studio 2008\Projects\TrainerConverter\TrainerConverter\obj\Debug\TrainerConverter.csproj.GenerateResource.Cache
+C:\Users\Karthi\Documents\Visual Studio 2008\Projects\TrainerConverter\TrainerConverter\bin\Debug\TrainerConverter.exe
+C:\Users\Karthi\Documents\Visual Studio 2008\Projects\TrainerConverter\TrainerConverter\bin\Debug\TrainerConverter.pdb
+C:\Users\Karthi\Documents\Visual Studio 2008\Projects\TrainerConverter\TrainerConverter\obj\Debug\TrainerConverter.exe
+C:\Users\Karthi\Documents\Visual Studio 2008\Projects\TrainerConverter\TrainerConverter\obj\Debug\TrainerConverter.pdb
